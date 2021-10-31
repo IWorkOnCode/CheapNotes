@@ -3,28 +3,16 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JList;
 import javax.swing.JOptionPane;
-//import javax.swing.JLabel;
 import javax.swing.JTextField;
 import javax.swing.JTextArea;
 import javax.swing.DefaultListModel;
-//import javax.swing.DefaultListSelectionModel;
 import javax.swing.JButton;
-//import javax.swing.JSeparator;
 import javax.swing.JToolBar;
-//import javax.swing.ListModel;
-//import javax.swing.ListModel;
 import javax.swing.ListSelectionModel;
 import javax.swing.ScrollPaneConstants;
-//import javax.swing.SwingUtilities;
-//import javax.swing.WindowConstants;
-//import javax.swing.ImageIcon;
 import javax.swing.border.EmptyBorder;
 import java.util.ArrayList;
 import java.awt.*;
-
-//import com.javaquizplayer.examples.notesapp.NotesAppGui.HelpActionListener;
-
-//import com.javaquizplayer.examples.notesapp.NotesAppGui;
 
 import java.awt.Dimension;
 import java.awt.Font;
