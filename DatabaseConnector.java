@@ -14,7 +14,7 @@ public class DatabaseConnector {
 	public static void openDatabase() {
 		//Connection connect = null;
 		try {
-			String connect_url = "jdbc:sqlite:C:/Users/chris/Desktop/test/notedb.db";
+			String connect_url = "jdbc:sqlite:C:/Users/***/Desktop/test/notedb.db";
 			connect = DriverManager.getConnection(connect_url);
 			//System.out.println("Successfully connected to SQLite database.");
 
